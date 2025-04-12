@@ -5,7 +5,7 @@
 # ИНСТРУКЦИЯ 
 
 ```bash
-git clone https://github.com/WsOrion/TikTok-Info.git.
+git clone https://github.com/WsOrion/TikTok-Info.git
 ```
 ```bash
 cd TikTok-Info
